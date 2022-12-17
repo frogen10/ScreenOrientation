@@ -11,7 +11,7 @@ cd C:\Windows\System32\WindowsPowerShell\v1.0\Modules\'FileName'
 To install module to your system copy file named 'FileName' to newly created Folder named 'FileName'.
 Or if u have git installed:
 ```bash
-git -clone https://github.com/frogen10/ScreenOrientation
+git -clone https://github.com/frogen10/ScreenOrientation.git
 ```
 
 Then open PowerShell console in this destination and enter command:
