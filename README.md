@@ -7,7 +7,9 @@ Then open PowerShell console in this destination and enter command: Install-Modu
 Then the module is installed, and you can easily use it in console from every place.
 
 In PowerShell: Set-ScreenResolution -DeviceID 1 -Rotation 0 -Width 1920 -Height 1080
+
 Or if You want change only orientation: Set-ScreenResolution -DeviceID 1 -Rotation 1
+            
 ```python
 ARGUMENTS:  -Width : Desired Width in pixels 
             -Height : Desired Height in pixels
