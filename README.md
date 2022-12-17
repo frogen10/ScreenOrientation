@@ -1,8 +1,8 @@
 # ScreenOrientation
 Set screen orientation and resolution
 
-To install module to your system copy file to: C:\Windows\System32\WindowsPowerShell\v1.0\Modules\<<FileName>>
-Then open PowerShell console in this destination and enter command: Install-Module -Name <<FileName>>
+To install module to your system copy file to: C:\Windows\System32\WindowsPowerShell\v1.0\Modules\<FileName>
+Then open PowerShell console in this destination and enter command: Install-Module -Name <FileName>
 
 Then the module is installed, and you can easily use it in console from every place.
 
